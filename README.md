@@ -1,0 +1,2 @@
+# TMGC
+Idle RPG
